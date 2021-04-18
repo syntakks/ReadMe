@@ -1,10 +1,7 @@
 {
-  "colors" : [
+  "images" : [
     {
-      "color" : {
-        "platform" : "ios",
-        "reference" : "systemBlueColor"
-      },
+      "filename" : "LightTexture-1.jpg",
       "idiom" : "universal"
     },
     {
@@ -14,10 +11,7 @@
           "value" : "light"
         }
       ],
-      "color" : {
-        "platform" : "ios",
-        "reference" : "systemOrangeColor"
-      },
+      "filename" : "LightTexture.jpg",
       "idiom" : "universal"
     },
     {
@@ -27,10 +21,7 @@
           "value" : "dark"
         }
       ],
-      "color" : {
-        "platform" : "ios",
-        "reference" : "systemPurpleColor"
-      },
+      "filename" : "DarkTextureBlack.jpg",
       "idiom" : "universal"
     }
   ],
